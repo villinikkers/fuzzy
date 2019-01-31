@@ -1,1 +1,1 @@
-# Code related to the course Fuzzy front end
+# Code related to the Fuzzy front end
