@@ -1,3 +1,4 @@
+# Developed to run on python 3.7
 import serial
 import time
 from sys import argv
